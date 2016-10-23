@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Cal_Button">คำนวณ</string>
+    <string name="Height_View">ส่วนสูง(ซม.)</string>
+    <string name="Weight_View">น้ำหนัก(กก.)</string>
+    <string name="Button">คำนวณ</string>
+    <string name="Text_View1">ส่วนสูง(ซม.)</string>
+    <string name="Text_View2">น้ำหนัก(กก.)</string>
+    <string name="Height">ส่วนสูง(ซม.)</string>
+    <string name="CALCULATE">คำนวณ</string>
+    <string name="Weight">น้ำหนัก(กก.)</string>
+</resources>
